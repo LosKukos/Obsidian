@@ -56,6 +56,10 @@
 - Strong satisfaction from finishing projects
 - Enjoys the "click" moment when everything works
 
+## Reward Pattern
+- Mix of ego boost ("I did this") and relief ("it's done")
+- Completion creates both confidence and mental reset
+
 ## Weaknesses
 - Overengineering early in projects
 - Losing interest before completion when blocked
