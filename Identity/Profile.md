@@ -24,23 +24,41 @@
 
 ## Work Style
 - Learns through chaos, experimentation, and iteration
-- Needs visible progress to stay engaged
+- Strongly dependent on visible progress (progress = motivation)
+- Immediate drop in engagement when progress stalls
 - Dislikes excessive theory without application
-- Tends to pivot between exploration and finishing depending on motivation
+- Enters deep focus when momentum is positive
+
+## Focus & Flow
+- Flow triggered by: visible progress and feeling of competence
+- Flow breaks when stuck or unclear path forward
 
 ## Project Behavior
 - Prefers experimenting over long-term structured execution
 - Wants things done properly but defaults to "make it work" for speed
+- Iterative mindset works well when feedback loop is fast
 - Frequently returns to ESP32 as a universal tool
+
+## Deadline Behavior
+- Moderate pressure improves performance
+- Unrealistic deadlines cause paralysis and avoidance
 
 ## Weaknesses
 - Overengineering early in projects
-- Losing interest before completion
+- Losing interest before completion when blocked
+- Putting projects on hold when hitting major barriers
 
 ## Motivation Drivers
 - Proving capability to self
 - Making an impression on others
+- Seeing continuous progress
+
+## Execution Pattern
+- Starts fast with experimentation
+- Scales complexity quickly (overengineering risk)
+- Either enters deep focus OR drops project if stuck
 
 ## Notes
 Technically oriented, prefers building and experimenting over pure theory.
-This profile should evolve as patterns become clearer.
+Understands systems conceptually but prefers assisted generation for speed.
+Most effective in iterative, feedback-driven environments.
