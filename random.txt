@@ -1,0 +1,5 @@
+This is a random file created by ChatGPT.
+
+If you're reading this, congrats — the repo is no longer empty.
+
+Time to actually build something instead of staring at a blank Git repo.
