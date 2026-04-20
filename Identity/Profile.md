@@ -43,6 +43,19 @@
 - Moderate pressure improves performance
 - Unrealistic deadlines cause paralysis and avoidance
 
+## Failure Response
+- First reaction: tries solving (often with external help)
+- If stuck too long: postpones to next day
+- If still blocked: project gets abandoned or shelved
+
+## Workload Pattern
+- Tries to limit to ~3 parallel projects
+- Higher number leads to fragmentation and loss of focus
+
+## Completion Motivation
+- Strong satisfaction from finishing projects
+- Enjoys the "click" moment when everything works
+
 ## Weaknesses
 - Overengineering early in projects
 - Losing interest before completion when blocked
@@ -61,4 +74,5 @@
 ## Notes
 Technically oriented, prefers building and experimenting over pure theory.
 Understands systems conceptually but prefers assisted generation for speed.
+Benefits from external problem-solving assistance (AI, collaboration).
 Most effective in iterative, feedback-driven environments.
