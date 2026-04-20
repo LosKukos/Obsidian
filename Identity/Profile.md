@@ -10,6 +10,36 @@
 - Experience as healthcare worker (nurse)
 - Currently studying biomedical engineering
 
+## Daily Rhythm
+- Strong night-oriented (prefers being active at night)
+- Would naturally shift sleep schedule toward day sleep if possible
+
+## Energy & Recovery
+- Feels chronically tired
+- Energy levels strongly affect productivity
+- Sleep quality heavily influences social and work engagement
+
+## Life Context
+- Studies are meaningful and fulfilling
+- Academic process itself is not enjoyable
+- Stress sources:
+  - school and deadlines
+  - family pressure (mother)
+
+## Social Behavior
+- Ambivert (situational)
+- Comfortable with known people (partner, colleagues)
+- Social interaction impact depends on energy level
+
+## Free Time Behavior
+- Gaming
+- TikTok / passive consumption
+- Thinking about or starting random projects
+
+## Environment
+- Organized chaos
+- Cycles between mess → cleanup → repeat
+
 ## Skills
 - Electronics
 - Embedded systems (ESP32, Arduino)
